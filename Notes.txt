@@ -1,0 +1,10 @@
+Package : means the file that belong to , we need to declare it top of the file.
+
+Types of package : Executable, Reusable 
+
+package main : that can be compiled and then executed 
+
+
+fmt : standard library (importing it from main package)
+
+golang.org/pkg : refer this for packages in go 
